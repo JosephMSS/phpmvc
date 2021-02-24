@@ -1,0 +1,10 @@
+.red{
+ color: red;
+}
+.grid-content{
+    display: flex;
+}
+.grid-container{
+    display: grid;
+    grid-gap: 50px;
+}
